@@ -1,0 +1,11 @@
+----------------------------
+HOTEL RESERVATION ACCOUNT INFORMATION
+----------------------------
+Name: da da
+Email/Num.: da
+Password: da
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Reading
+--------------------------
